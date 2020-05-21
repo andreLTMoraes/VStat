@@ -15,8 +15,8 @@ VStat
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div>
-    <img src="https://i.ibb.co/RHVyfRm/VStat.gif"
+<div align="center">
+    <img src="https://i.ibb.co/H4BpdJm/VStat.gif"
     alt="demo" height="425">
 </div>
 
@@ -27,7 +27,7 @@ VStat
 Interface desktop para controle e análise dos dados de um potenciostato.
 
 O projeto foi desenvolvido em uma parceria UFRPE e UFPE.
-Durante o projeto também foi desenvolvido o potenciostato que é um dispositivo que controla a diferença de potêncial de eletrodos em uma célula eletroquímica para extração de dados.
+Durante o projeto também foi desenvolvido o potenciostato, que é um dispositivo que controla a diferença de potêncial de eletrodos em uma célula eletroquímica para extração de dados.
 
 - :snake: **Python** - Controle e tratamento de dados. 
 - :computer: **TkInter** — Framework para criação de interfaces gráficas.
